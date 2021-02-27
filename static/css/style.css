@@ -1,2 +1,18 @@
-h4 {aligment: center;
-    color: aquamarine}
+h1 {
+  color: red; /* Цвет заголовка */
+}
+h2 {
+background: grey;
+}
+h3 {
+background: green;
+}
+h4 {
+background: grey;
+}
+h5 {
+background: orange;
+}
+h5 {
+background: red;
+}
